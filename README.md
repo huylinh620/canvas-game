@@ -1,4 +1,6 @@
-# canvas game
+# Canvas Game
+
+Demo: http://huylinh620-canvas-game.herokuapp.com/
 
 ## Game list
 
